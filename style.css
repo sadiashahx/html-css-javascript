@@ -1,0 +1,9 @@
+h2{
+    color: white;
+    background-color: darkblue;
+    font-style: italic;
+}
+
+p,a{
+    color: darkblue;
+}
